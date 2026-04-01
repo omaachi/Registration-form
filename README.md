@@ -1,2 +1,7 @@
 # Registration-form
-A simple registration form built with HTML as part of a frontend development assessment.
+This project is a simple registration form built with HTML.
+## Features 
+- User input fields
+- -clean layout
+## Author
+Muhammed Bashir(Omaachi)
